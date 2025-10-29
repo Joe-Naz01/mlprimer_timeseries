@@ -1,4 +1,4 @@
-# ML Primer (Notebook)
+# ML Primer
 
 A hands-on primer that walks through:
 - Plotting two time series from CSVs
@@ -21,11 +21,11 @@ A hands-on primer that walks through:
    - Fits linear regression (`sklearn.linear_model`)
    - Predicts over a 1-D input grid and overlays regression line
 
-4) **Audio inspection (heartbeat)**
+4) **Audio inspection [heartbeat](https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds)**
    - Loads `*.wav` files with `librosa`
    - Visualises waveform over time
 
-5) **Prices dataset (multi-company)**
+5) **Stock Prices dataset [multi-company](https://www.kaggle.com/datasets/dgawlik/nyse)**
    - Reads `prices.csv`
    - Converts index to datetime
    - Plots multiple columns as price series
